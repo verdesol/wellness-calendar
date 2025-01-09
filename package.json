@@ -8,15 +8,16 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
- "homepage": "https://verdesol.github.io/wellness-calendar"
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "deploy": "gh-pages -d build",
-  "predeploy": "npm run build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-}
+ {
+  "homepage": "https://verdesol.github.io/wellness-calendar",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
   "eslintConfig": {
     "extends": [
       "react-app",
